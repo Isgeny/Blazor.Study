@@ -1,0 +1,9 @@
+.idea/
+.vs/
+
+*.DotSettings
+*.user
+*.pdb
+
+obj
+bin
